@@ -340,6 +340,25 @@ Icon: https://repo.litten.love/depictions/afo/assets/icon.png
 Name: Astolfo 👒
 Sileodepiction: https://repo.litten.love/depictions/afo/afo.json
 
+Package: love.litten.astolfo
+Version: 1.2
+Architecture: iphoneos-arm
+Maintainer: Litten
+Installed-Size: 2336
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.14), firmware (>= 13.0), com.mrgcgamer.libgcuniversal
+Filename: ./debs/love.litten.astolfo_1.2_iphoneos-arm.deb
+Size: 1948422
+MD5sum: 7c07e27097a41112db65bb89d68bd8ac
+SHA1: a33ffdf8596d43be0e0b345c970d0f46eefcc3eb
+SHA256: 2ddf270934f06c562940457d4dcfed45792ef8378c2d2974212017f3a0e545a0
+Section: Tweaks
+Description: Astolfo siri
+Author: Litten
+Depiction: https://repo.litten.love/depictions/afo/index.html
+Icon: https://repo.litten.love/depictions/afo/assets/icon.png
+Name: Astolfo 👒
+Sileodepiction: https://repo.litten.love/depictions/afo/afo.json
+
 Package: love.litten.avrora
 Version: 1.0
 Architecture: iphoneos-arm
@@ -1080,6 +1099,45 @@ Depiction: https://repo.litten.love/depictions/dvu/index.html
 Icon: https://repo.litten.love/depictions/dvu/assets/icon.png
 Name: Déjà Vu 🕰
 Sileodepiction: https://repo.litten.love/depictions/dvu/dvu.json
+
+Package: love.litten.dejavu
+Version: 1.3.1
+Architecture: iphoneos-arm
+Maintainer: Litten
+Installed-Size: 2216
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.14), firmware (>= 13.0)
+Filename: ./debs/love.litten.dejavu_1.3.1_iphoneos-arm.deb
+Size: 1761666
+MD5sum: ca551af20bf6f27bd6fae814a6993a92
+SHA1: 27143f89ab762aecb2a121487e35ddc2b8919abe
+SHA256: 15e23529a9cf9a4c2190fa15b6026488d79088c841d87ad6eac5fdf61a796407
+Section: Tweaks
+Description: I've seen that before
+Author: Litten
+Depiction: https://repo.litten.love/depictions/dvu/index.html
+Icon: https://repo.litten.love/depictions/dvu/assets/icon.png
+Name: Déjà Vu 🕰
+Sileodepiction: https://repo.litten.love/depictions/dvu/dvu.json
+
+Package: love.litten.diary
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Litten
+Installed-Size: 5480
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.14), firmware (>= 13.0), com.mrgcgamer.libgcuniversal, com.peterdev.libpddokdo
+Conflicts: hi.my.name.is.ubik.kalm, com.peterdev.grupi
+Filename: ./debs/love.litten.diary_1.0_iphoneos-arm.deb
+Size: 2532010
+MD5sum: 645b087b805a6b987fbb233a1492aa0a
+SHA1: 9714c83a4ee346d0605e2f8aa209614639e727f3
+SHA256: 520533d475a361705003c238128a52cb129c51a12e0198653a6a6608e7f4e008
+Section: Tweaks
+Description: Dear diary..
+Author: Litten
+Depiction: https://repo.litten.love/depictions/dry/index.html
+Icon: https://repo.litten.love/depictions/dry/assets/icon.png
+Name: Diary 📖
+Sileodepiction: https://repo.litten.love/depictions/dry/dry.json
 
 Package: love.litten.dress
 Version: 1.0
@@ -4006,6 +4064,25 @@ Size: 1782136
 MD5sum: 4518142167c680797265db7c11f6cdec
 SHA1: 4e8c610ec2cdd64f291d968427922dd2e33e78c9
 SHA256: 0e8feb3636ef1d1395b7612a9959555073dbd32b2f8fcfbe5a3b3f63706fa603
+Section: Tweaks
+Description: Your magical watching spirit
+Author: Litten
+Depiction: https://repo.litten.love/depictions/pck/index.html
+Icon: https://repo.litten.love/depictions/pck/assets/icon.png
+Name: Puck 🔮
+Sileodepiction: https://repo.litten.love/depictions/pck/pck.json
+
+Package: love.litten.puck
+Version: 2.0.1
+Architecture: iphoneos-arm
+Maintainer: Litten
+Installed-Size: 2688
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.14), firmware (>= 13.0), com.opa334.ccsupport
+Filename: ./debs/love.litten.puck_2.0.1_iphoneos-arm.deb
+Size: 1781434
+MD5sum: cb9a41c500d1343fbc9b9d0a0b9df0cb
+SHA1: edd1ef1bc94bfe63d21ecc189c0cfc033d6d5c15
+SHA256: 2353ec7a1be963be833895ac59171ed78c70b24c19ba1513e30fc605ede6aa72
 Section: Tweaks
 Description: Your magical watching spirit
 Author: Litten
